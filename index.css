@@ -14,7 +14,7 @@ body {
 
 a {
 	color: #0bc;
-	text-decoration: none;
+	text-decoration: underline overline;
 }
 
 #a {
@@ -22,7 +22,7 @@ a {
 }
 
 #c {
-	color: #0bc;
+	color: #5f74eb;
 }
 
 #b {

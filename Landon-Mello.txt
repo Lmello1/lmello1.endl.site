@@ -1,17 +1,19 @@
-<span id="a">Landon@Mello</span>:<span id="b">~</span><span id="c">$</span> cd test/<!-- laglaglaglaglaglag -->About_Me
-<span id="a">Landon@Mello</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->Landon-Mello.txt<br/><br/>
+<span id="a">Landon@Mello</span>:<span id="c">~</span>$ cd Desktop/<!-- laglaglaglaglaglag -->About_Me <!-- longlonglonglonglongcomment-->
+<span id="a">Landon@Mello</span>:<span id="c">~/Desktop/About_Me</span>$ ls <!-- longlonglonglonglongcomment-->
+<a href="1.html">LINK 1</a>  <a href="2.html">LINK 2</a>  <a href="3.html">LINK 3</a> <!-- longlonglonglonglongcomment-->
+<span id="a">Landon@Mello</span>:<span id="c">~/Desktop/About_Me</span>$ cat <!-- laglaglaglaglaglaglaglaglag -->Landon-Mello.txt<br/><br/> <!-- longlonglonglonglongcomment-->
 
 Hi, I'm Landon Mello. 
 <p>My skills:
 • Hardware development
 • Frontend web development
-• System/Network administration</p>
-<!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
+• System/Network administration</p> <!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
 <p>You can check out my Github here: <a href="https://github.com/Lmello1">Github</a>
 
 If you would like to get in touch with me, whether it be for tech support, a business venture, or just to say hi, feel free to send me an email or a message on discord.
 
 <!-- slightdelayhere-->My email address is: <!-- longlonglongcomment --><a href="mailto:LMoperatingsystem@gmail.com">LMoperatingsystem@gmail.com</a>
-<!-- slightdelayhere-->And my discord is: <!-- longlonglonglonglongcomment--><a href="">lemon#1199</a><br>
+
+<!-- slightdelayhere-->And my discord is: <!-- longlonglonglonglongcomment--><a href="discord.html">lemon#1199</a><br>
 
 <p>Cheers!</p>
