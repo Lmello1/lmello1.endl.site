@@ -97,7 +97,7 @@ function replaceUrls(text) {
 	}
 }
 
-Typer.speed=5;
+Typer.speed=7;
 Typer.file="404.txt";
 Typer.init();
  

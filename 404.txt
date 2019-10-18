@@ -1,17 +1,8 @@
-Im not shure how you got here but this is not the correct place to be
-Please continue to the main site with this link
+I'm not sure how you got here, but this is not the correct place to be.
+Please continue to the main site with this link:
 
-<a href="index.html">HOME</a>
+<a href="lmello1.endl.site">HOME</a>
 
-PID: 563    TASK: ffff88e69628c080  CPU: 2   COMMAND: "tee"
- #0 [ffffa67440b23ba0] machine_kexec at ffffffffa0c53f68
- #1 [ffffa67440b23bf8] __crash_kexec at ffffffffa0d086d1
- #2 [ffffa67440b23cb8] crash_kexec at ffffffffa0d08738
- #3 [ffffa67440b23cd0] oops_end at ffffffffa0c298b3
- #4 [ffffa67440b23cf0] no_context at ffffffffa0c619b1
- #5 [ffffa67440b23d50] __do_page_fault at ffffffffa0c62476
- #6 [ffffa67440b23dc0] page_fault at ffffffffa121a618
-    [exception RIP: sysrq_handle_crash+18]
     RIP: ffffffffa102be62  RSP: ffffa67440b23e78  RFLAGS: 00010282
     RAX: ffffffffa102be50  RBX: 0000000000000063  RCX: 0000000000000000
     RDX: 0000000000000000  RSI: ffff88e69fd10648  RDI: 0000000000000063
@@ -19,13 +10,6 @@ PID: 563    TASK: ffff88e69628c080  CPU: 2   COMMAND: "tee"
     R10: 0000000000000001  R11: 0000000000000001  R12: 0000000000000004
     R13: 0000000000000000  R14: 0000000000000000  R15: 0000000000000000
     ORIG_RAX: ffffffffffffffff  CS: 0010  SS: 0018
- #7 [ffffa67440b23e78] __handle_sysrq at ffffffffa102c597
- #8 [ffffa67440b23ea0] write_sysrq_trigger at ffffffffa102c9db
- #9 [ffffa67440b23eb0] proc_reg_write at ffffffffa0e7ac00
-#10 [ffffa67440b23ec8] vfs_write at ffffffffa0e0b3b0
-#11 [ffffa67440b23ef8] sys_write at ffffffffa0e0c7f2
-#12 [ffffa67440b23f38] do_syscall_64 at ffffffffa0c03b7d
-#13 [ffffa67440b23f50] entry_SYSCALL_64_after_swapgs at ffffffffa121924e
     RIP: 00007f3952463970  RSP: 00007ffc7f3a4e58  RFLAGS: 00000246
     RAX: ffffffffffffffda  RBX: 0000000000000002  RCX: 00007f3952463970
     RDX: 0000000000000002  RSI: 00007ffc7f3a4f60  RDI: 0000000000000003
@@ -35,9 +19,9 @@ PID: 563    TASK: ffff88e69628c080  CPU: 2   COMMAND: "tee"
     ORIG_RAX: 0000000000000001  CS: 0033  SS: 002b
 <p>
  ___________
-< Hello world >
+< H E L P >
  -------------
-        \   ^__^
+      ​  \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
