@@ -1,0 +1,9 @@
+<span id="a">Landon@Mello</span>:<span id="c">~/Desktop/About_Me</span>$ cat <!-- laglaglaglaglaglaglaglaglag -->About_Me.txt<br/><br/>
+<p>I am a hardware developer and a front-end web developer. I have extensive knowledge of hardware prototyping and PCB layout, and I have experience with front-end development. If you're looking for a Hardware Design with previous experience, you've come to the right place. I started in hardware at 9 when I disassembled my first computer. Since then I've been hooked, everything that came into my house got taken apart and put back together. After I started to disassemble and assemble technology I decided to experiment with what could be done. I bought an Arduino and an RFID reader. With that, I was able to invent a new type of RFID card that shielded the contents more than a typical card</p>
+
+<a href=”RFID.html”>You can check out that product here</a>
+
+<p>I was born in San Jose and live near the heart of Silicon Valley in San Ramon. That granted me many great opportunities to expand my knowledge of hardware. I was able to go to "hackathons" and met Allan Alcorn (The inventor of pong) at one of them.</p>
+
+
+<a href="index.html">BACK</a>

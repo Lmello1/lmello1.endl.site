@@ -1,7 +1,7 @@
 I'm not sure how you got here, but this is not the correct place to be.
 Please continue to the main site with this link:
 
-<a href="lmello1.endl.site">HOME</a>
+<a href="">HOME</a>
 
     RIP: ffffffffa102be62  RSP: ffffa67440b23e78  RFLAGS: 00010282
     RAX: ffffffffa102be50  RBX: 0000000000000063  RCX: 0000000000000000

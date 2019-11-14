@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+Disallow: /About_Me.html
+Disallow: /404.html
